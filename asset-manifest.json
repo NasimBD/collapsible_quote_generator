@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/collapsible_quote_generator/static/css/main.87661b6f.css",
+    "main.js": "/collapsible_quote_generator/static/js/main.a8a59f2f.js",
+    "static/media/loading-4.gif": "/collapsible_quote_generator/static/media/loading-4.8982fd174425a0e7c5fb.gif",
+    "index.html": "/collapsible_quote_generator/index.html",
+    "main.87661b6f.css.map": "/collapsible_quote_generator/static/css/main.87661b6f.css.map",
+    "main.a8a59f2f.js.map": "/collapsible_quote_generator/static/js/main.a8a59f2f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.87661b6f.css",
+    "static/js/main.a8a59f2f.js"
+  ]
+}
